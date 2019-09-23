@@ -1,1 +1,30 @@
-
+Uses GraphABC;
+BEGIN
+  SetWindowSize(1100, 777);
+  SetPenWidth(2);
+  MoveTo(11, 1);
+  LineTo(100, 10);
+  LineTo(100, 101);
+  LineTo(10, 1000);
+  LineTo(10, 1010);
+  LineTo(1, 1010);
+  LineTo(1, 1011);
+  LineTo(10, 1100);
+  LineTo(11, 1100);
+  LineTo(100, 1010);
+  LineTo(100, 1000);
+  LineTo(101, 1000);
+  LineTo(110, 1010);
+  LineTo(111, 1010);
+  LineTo(1000, 1000);
+  LineTo(1010, 1000);
+  LineTo(1010, 111);
+  LineTo(1001, 1000);
+  LineTo(1001, 1);
+  LineTo(111, 1);
+  LineTo(1000, 10);
+  LineTo(1000, 101);
+  LineTo(101, 101);
+  LineTo(101, 1);
+  LineTo(11, 1);
+END.
