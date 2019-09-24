@@ -3,7 +3,7 @@ Uses GraphABC;
 BEGIN
   SetWindowSize(800, 600);
   SetPenWidth(1);
-  MoveTo(11, 1); 
+  MoveTo(3, 1); 
   LineTo(4, 2); 
   LineTo(4, 5); 
   LineTo(2, 8); 
