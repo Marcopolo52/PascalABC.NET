@@ -3,7 +3,7 @@
 
 var
   a: array[1..n, 1..n] of integer;
-  x, y, t: integer;
+  x, y: integer;
 
 begin
   for x := 1 to n do 
